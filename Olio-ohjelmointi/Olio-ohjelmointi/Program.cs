@@ -11,6 +11,14 @@ namespace Olio_ohjelmointi
         static void Main(string[] args)
         {
 
+            koira koira1 = new koira("batman", "boxer", 10);
+
+            koira1.HaeTiedot();
+
+            koira1.Hauku();
         }
+
+
+
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.exe.config
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.exe
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\bin\Debug\Olio-ohjelmointi.pdb
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.AssemblyReference.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.exe
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Olio-ohjelmointi\obj\Debug\Olio-ohjelmointi.pdb
