@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olio-ohjelmointi", "Olio-oh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus1", "Harjoitus1\Harjoitus1.csproj", "{230F43D9-1D40-49E6-BCD6-3992106F3F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus2", "Harjoitus2\Harjoitus2.csproj", "{6F0990EA-C9D1-4CC0-911C-AD299089FE7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{230F43D9-1D40-49E6-BCD6-3992106F3F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{230F43D9-1D40-49E6-BCD6-3992106F3F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{230F43D9-1D40-49E6-BCD6-3992106F3F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0990EA-C9D1-4CC0-911C-AD299089FE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0990EA-C9D1-4CC0-911C-AD299089FE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0990EA-C9D1-4CC0-911C-AD299089FE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0990EA-C9D1-4CC0-911C-AD299089FE7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
