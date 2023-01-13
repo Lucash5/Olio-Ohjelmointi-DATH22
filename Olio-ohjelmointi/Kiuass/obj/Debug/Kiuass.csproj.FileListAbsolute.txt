@@ -1,0 +1,8 @@
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\bin\Debug\Kiuass.exe.config
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\bin\Debug\Kiuass.exe
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\bin\Debug\Kiuass.pdb
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\obj\Debug\Kiuass.csproj.AssemblyReference.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\obj\Debug\Kiuass.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\obj\Debug\Kiuass.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\obj\Debug\Kiuass.exe
+C:\Users\lucas.kajander\source\repos\Lucash5\Olio-Ohjelmointi-DATH22\Olio-ohjelmointi\Kiuass\obj\Debug\Kiuass.pdb
