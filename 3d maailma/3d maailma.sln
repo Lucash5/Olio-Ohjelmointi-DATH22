@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3d maailma", "3d maailma\3d maailma.csproj", "{0183CEFE-039C-4C68-819A-B6541D19CF14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peli", "..\..\..\OhjelmoinninPerusteet\Peli\Peli.csproj", "{F70242AF-048A-4B1E-8A7E-6E58E42A9984}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0183CEFE-039C-4C68-819A-B6541D19CF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0183CEFE-039C-4C68-819A-B6541D19CF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0183CEFE-039C-4C68-819A-B6541D19CF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0183CEFE-039C-4C68-819A-B6541D19CF14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70242AF-048A-4B1E-8A7E-6E58E42A9984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70242AF-048A-4B1E-8A7E-6E58E42A9984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70242AF-048A-4B1E-8A7E-6E58E42A9984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70242AF-048A-4B1E-8A7E-6E58E42A9984}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAAB9F5-6319-4410-A095-0B2B31643DB3}
+	EndGlobalSection
+EndGlobal

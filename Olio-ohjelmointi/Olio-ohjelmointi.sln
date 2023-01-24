@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus6", "Harjoitus6\Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiuass", "Kiuass\Kiuass.csproj", "{CDD6D545-E231-4AD8-B307-BC4E81929ED1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfapp1", "wpfapp1\wpfapp1.csproj", "{A7E582A0-0FB2-4854-8AA7-D3CD23F0F2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{69B8B44D-8661-4099-AC4A-E6256DAE1793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{CDD6D545-E231-4AD8-B307-BC4E81929ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDD6D545-E231-4AD8-B307-BC4E81929ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDD6D545-E231-4AD8-B307-BC4E81929ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E582A0-0FB2-4854-8AA7-D3CD23F0F2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E582A0-0FB2-4854-8AA7-D3CD23F0F2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E582A0-0FB2-4854-8AA7-D3CD23F0F2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E582A0-0FB2-4854-8AA7-D3CD23F0F2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B8B44D-8661-4099-AC4A-E6256DAE1793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B8B44D-8661-4099-AC4A-E6256DAE1793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B8B44D-8661-4099-AC4A-E6256DAE1793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B8B44D-8661-4099-AC4A-E6256DAE1793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
